@@ -1,0 +1,764 @@
+Detecting C compiler ABI info failed to compile with the following output:
+
+
+
+Determining if the C compiler works failed with the following output:
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:19:05.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmpa459902ea35147ef87cf593b99a28e4a.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmpa459902ea35147ef87cf593b99a28e4a.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.42
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:19:06.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp3d64faba079b4dc3a70e80c8d4b08ff6.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp3d64faba079b4dc3a70e80c8d4b08ff6.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.38
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:19:06.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp89122cfee599434fb6b5f43e50f38a0d.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp89122cfee599434fb6b5f43e50f38a0d.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.40
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:19:07.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmpa564d766e9f24d74819aa60e09e4e6a6.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmpa564d766e9f24d74819aa60e09e4e6a6.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.40
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:19:43.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp82e433ab44ce40b69b4fb690e349b789.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp82e433ab44ce40b69b4fb690e349b789.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.39
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:19:43.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmpf0701651591d4ebab7e02f91be97be75.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmpf0701651591d4ebab7e02f91be97be75.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.41
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:19:44.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp905141f603ad415d812a25d8857c7fa1.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp905141f603ad415d812a25d8857c7fa1.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.42
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:19:45.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp43df9df030524c72b52edb53f04f86d9.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp43df9df030524c72b52edb53f04f86d9.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.41
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+
+
+
+Determining if the C compiler works failed with the following output:
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:21:18.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp03c14f8c24174794af453f04037c321a.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp03c14f8c24174794af453f04037c321a.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.40
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:21:19.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp77f4a356a3e64e1ca731155508745f5f.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp77f4a356a3e64e1ca731155508745f5f.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.41
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:21:20.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp66a20911379b4821b5d150fee05b7531.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp66a20911379b4821b5d150fee05b7531.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.39
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:21:20.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp2203325078af43d2884d3f95d02e26f3.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp2203325078af43d2884d3f95d02e26f3.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.43
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:23:52.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp4097f81d22c94bdb85e23cd9a9db1fad.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp4097f81d22c94bdb85e23cd9a9db1fad.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.41
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:23:53.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp7a578632853148dcaab392c81f1402bd.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp7a578632853148dcaab392c81f1402bd.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.44
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:23:53.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp55db2804e528419aa8349bc8cad17743.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp55db2804e528419aa8349bc8cad17743.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.43
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:23:54.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp6416610f0e444595b41eecb584080fcc.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp6416610f0e444595b41eecb584080fcc.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.41
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+
+
+
+Determining if the C compiler works failed with the following output:
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:28:41.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp1a6c7f30ec6845dfa9c103142daba3e6.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp1a6c7f30ec6845dfa9c103142daba3e6.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.40
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:28:42.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp0e1a6e87e2b2498eba7de49d014605d6.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp0e1a6e87e2b2498eba7de49d014605d6.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.40
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:28:43.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp829154e548dc4a0486299f5ed2d97093.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmp829154e548dc4a0486299f5ed2d97093.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.43
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:28:43.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmpbcb722e6317f453fa38fe606981bf6b9.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию) с ошибкой.
+
+Ошибка сборки.
+
+"C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (целевой объект по умолчанию) (1) ->
+(Целевой объект ClCompile) -> 
+  TRACKER : error TRK0002: не удалось выполнить команду: ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe" @C:\Users\Programmer\AppData\Local\Temp\tmpbcb722e6317f453fa38fe606981bf6b9.rsp". Запрошенная операция требует повышения. [C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.46
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+
+
+
+Determining if the C compiler works failed with the following output:
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+
+
+
+Determining if the C compiler works failed with the following output:
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+
+
+
+Determining if the C compiler works failed with the following output:
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+
+
+
+Determining if the C compiler works failed with the following output:
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+
+
+
+Determining if the C compiler works failed with the following output:
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+
+
+
+Determining if the C compiler works failed with the following output:
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+
+
+
+Determining if the C compiler works failed with the following output:
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+
+
+
+Determining if the C compiler works failed with the following output:
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+
+
+
+Determining if the C compiler works failed with the following output:
+
+

@@ -1,0 +1,1100 @@
+The system is: Windows - 10.0.14393 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:14:10.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdC.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:03.32
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:14:14.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.20
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+The system is: Windows - 10.0.14393 - AMD64
+The system is: Windows - 10.0.14393 - AMD64
+The system is: Windows - 10.0.14393 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:20:42.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdC.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.07
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:20:43.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.89
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+The system is: Windows - 10.0.14393 - AMD64
+The system is: Windows - 10.0.14393 - AMD64
+The system is: Windows - 10.0.14393 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:27:48.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdC.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.20
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:27:50.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.92
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+The system is: Windows - 10.0.14393 - AMD64
+The system is: Windows - 10.0.14393 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:29:16.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdC.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.04
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:29:17.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.87
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+The system is: Windows - 10.0.14393 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:36:10.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdC.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.13
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:36:12.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.88
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+The system is: Windows - 10.0.14393 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:41:15.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdC.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:03.25
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:41:18.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.35
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+The system is: Windows - 10.0.14393 - AMD64
+The system is: Windows - 10.0.14393 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:44:53.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdC.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.09
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:44:54.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.90
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+The system is: Windows - 10.0.14393 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:50:29.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdC.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.08
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:50:30.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.84
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+The system is: Windows - 10.0.14393 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:50:58.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdC.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.03
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:50:59.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.86
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+The system is: Windows - 10.0.14393 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:51:51.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdC.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.04
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:51:52.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.86
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+The system is: Windows - 10.0.14393 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:57:10.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdC.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.14
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:57:11.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x86\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.87
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+The system is: Windows - 10.0.14393 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:57:21.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdC.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.86
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 16.4.0+e901037fe для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 17.12.2020 4:57:22.
+Проект "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Сборка проекта "C:\Users\Programmer\Desktop\Test123\proj.win32\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.84
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Programmer/Desktop/Test123/proj.win32/CMakeFiles/3.19.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+The system is: Windows - 10.0.14393 - AMD64
+The system is: Windows - 10.0.14393 - AMD64
